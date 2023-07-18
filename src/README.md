@@ -1,7 +1,5 @@
 # Introduction
 
-Introduction
-
 In today's information age, the ability to remember and retain large amounts of information is more important than ever. Whether you are a student, professional, or lifelong learner, knowing how to memorize effectively can help you achieve your goals and excel in your field.
 
 The Art of Memorization: How to Remember Information for the Long-Term is a guide to developing the skills and techniques needed to memorize information effectively and efficiently. In this book, we will explore the key principles of memory and provide practical strategies and exercises for improving your memory retention.
