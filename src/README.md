@@ -14,5 +14,4 @@ We will cover topics such as:
 
 Whether you are preparing for an exam, learning a new skill, or simply looking to improve your memory, The Art of Memorization will provide you with the tools and insights you need to remember information for the long-term. By following the steps outlined in this book, you can develop a stronger memory and enhance your ability to learn and grow throughout your life.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
