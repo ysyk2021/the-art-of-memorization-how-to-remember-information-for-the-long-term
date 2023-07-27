@@ -1,0 +1,1 @@
+for the book "the art of memorization how to remember information for the long term", write a chapter: "explanation of short-term and long-term memory".  Use Markdown format. Use English.

@@ -1,0 +1,1 @@
+for the book "the art of memorization how to remember information for the long term", write a chapter: "strategies for creating a memory palace, using spatial memory, and organizing information".  Use Markdown format. Use English.

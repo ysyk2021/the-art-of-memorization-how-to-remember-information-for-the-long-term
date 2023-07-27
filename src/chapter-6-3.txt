@@ -1,0 +1,1 @@
+for the book "the art of memorization how to remember information for the long term", write a chapter: "how to use active recall to remember information for the long-term".  Use Markdown format. Use English.
