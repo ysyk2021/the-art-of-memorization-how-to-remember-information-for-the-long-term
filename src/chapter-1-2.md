@@ -44,5 +44,3 @@ Conclusion
 ----------
 
 Memorization is the process of encoding, storing, and retrieving information in our memory. It forms the foundation of our knowledge base, enhances learning efficiency, and supports critical thinking and problem-solving. By understanding the factors that affect memorization, such as attention, repetition, understanding, and emotional state, we can optimize our learning process and improve our memory retention abilities.
-
-In the following chapters, we will explore specific strategies, techniques, and exercises designed to enhance your memorization skills and empower you to remember information for the long term. Let's dive deeper into the art of memorization!

@@ -41,4 +41,4 @@ Conclusion
 
 In this chapter, we explored several common memory techniques: repetition, visualization, association, and chunking. Each technique offers unique advantages in improving memory retention and recall. By incorporating these techniques into your learning process, you can enhance your ability to remember information for the long term.
 
-Remember that everyone learns differently, so feel free to explore and adapt these techniques to suit your preferences and learning style. Experiment with combining techniques and find the strategies that work best for you. In the following chapters, we will dive deeper into each technique, providing practical tips and exercises to help you master the art of memorization.
+Remember that everyone learns differently, so feel free to explore and adapt these techniques to suit your preferences and learning style. Experiment with combining techniques and find the strategies that work best for you.
