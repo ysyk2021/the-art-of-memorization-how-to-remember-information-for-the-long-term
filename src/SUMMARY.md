@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Purpose of the book](chapter-1-1.md)
   - [Definition of memorization](chapter-1-2.md)
   - [Why understanding The Art of Memorization is important for remembering information for the long-term](chapter-1-3.md)
 - [Chapter 2: Understanding Memory](chapter-2.md)
