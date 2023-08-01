@@ -30,23 +30,23 @@ Different types of mnemonic devices can be employed based on the nature of the i
 
 1. **Acronyms**: Acronyms involve creating a word or phrase using the first letters of a list of items. This device helps remember the order or key elements of a series.
 
-Example: ROY G. BIV represents the colors of the rainbow (Red, Orange, Yellow, Green, Blue, Indigo, Violet).
+    Example: ROY G. BIV represents the colors of the rainbow (Red, Orange, Yellow, Green, Blue, Indigo, Violet).
 
 2. **Acrostics**: Acrostics use the first letter of each word to create a sentence or phrase that helps remember a sequence of information.
 
-Example: "Every Good Boy Deserves Fudge" represents the lines of the treble clef in music (E, G, B, D, F).
+    Example: "Every Good Boy Deserves Fudge" represents the lines of the treble clef in music (E, G, B, D, F).
 
 3. **Visual Imagery**: Visual imagery involves creating vivid mental images that represent information you want to remember. These images are often bizarre, exaggerated, or humorous to enhance recall.
 
-Example: To remember a shopping list of milk, eggs, and bread, visualize a carton of milk, eggs cracking on your head, and a loaf of bread with eyes and a mouth.
+    Example: To remember a shopping list of milk, eggs, and bread, visualize a carton of milk, eggs cracking on your head, and a loaf of bread with eyes and a mouth.
 
 4. **Method of Loci**: The method of loci uses visual associations with familiar locations or objects to remember a series of information. By mentally walking through a familiar place and associating specific items with key points along the route, recall is improved.
 
-Example: Imagine placing key historical events in different rooms of your house and mentally walk through the rooms to remember the events in sequence.
+    Example: Imagine placing key historical events in different rooms of your house and mentally walk through the rooms to remember the events in sequence.
 
 5. **Rhymes and Jingles**: Rhymes and jingles use rhythm, melody, and repetition to encode and recall information. They are particularly useful for remembering lists or sequences.
 
-Example: "Thirty days hath September, April, June, and November" is a rhyme used to remember the number of days in each month.
+    Example: "Thirty days hath September, April, June, and November" is a rhyme used to remember the number of days in each month.
 
 Strategies for Effective Mnemonic Use
 -------------------------------------
