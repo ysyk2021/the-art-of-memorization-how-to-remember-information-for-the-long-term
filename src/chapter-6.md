@@ -1,5 +1,3 @@
-Chapter 6: Active Recall
-========================
 
 The Role of Active Recall in Memorization
 -----------------------------------------

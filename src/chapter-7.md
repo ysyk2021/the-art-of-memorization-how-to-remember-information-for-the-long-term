@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Memory Blocks
-===================================
 
 Memory blocks can hinder the ability to remember information for the long-term. In this chapter, we will explore the challenges of memorization, strategies for dealing with forgetfulness, interference, and stress, and how to use mindfulness and other techniques to enhance obstacle and challenge overcoming.
 

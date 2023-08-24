@@ -1,4 +1,3 @@
-# Strategies for Practicing Active Recall, including Flashcards and Quizzes
 
 In the journey of improving your memory and retaining information for the long term, practicing active recall is a powerful technique. Active recall involves actively retrieving information from your memory, rather than passively reviewing or re-reading it. This chapter will explore strategies for implementing active recall, with a particular focus on two effective methods: flashcards and quizzes. By incorporating these strategies into your learning routine, you can enhance your memory retention and improve your overall learning experience.
 

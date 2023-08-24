@@ -1,5 +1,3 @@
-Chapter 4: Mnemonic Devices
-===========================
 
 Mnemonic devices are memory aids that can help individuals remember information more effectively. They work by associating new information with something that is already familiar or memorable. This chapter explores the role of mnemonic devices in memorization, an overview of common mnemonic devices, including acronyms, rhymes, and songs, and how to use mnemonic devices to remember information for the long-term.
 

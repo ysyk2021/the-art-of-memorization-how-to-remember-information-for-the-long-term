@@ -1,5 +1,3 @@
-Definition of Memorization
-=====================================
 
 In this chapter, we will explore the definition of memorization and its significance in the learning process. We will delve into the various aspects of memorization to gain a comprehensive understanding of this essential cognitive skill.
 

@@ -1,5 +1,3 @@
-How to Use Memory Palaces to Remember Information for the Long-Term
-==============================================================================
 
 In this chapter, we will explore one of the most powerful and effective techniques for remembering information for the long-term: the method of loci, also known as Memory Palaces. Memory Palaces have been used for centuries by memory champions, scholars, and individuals seeking to enhance their memory abilities. This technique leverages our spatial memory and the power of visualization to create a mental framework for organizing and recalling information with remarkable precision. In this chapter, we will learn how to construct and utilize Memory Palaces effectively.
 

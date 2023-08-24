@@ -1,5 +1,3 @@
-Techniques for Applying the Strategies and Tactics Learned from The Art of Memorization to Your Own Life Journey
-==========================================================================================================================================================================
 
 In this book, we have explored various strategies and tactics for improving your ability to remember information for the long-term. Now it's time to apply these lessons learned to your own life journey. In this chapter, we will explore techniques for applying the strategies and tactics learned from The Art of Memorization to your own life journey.
 

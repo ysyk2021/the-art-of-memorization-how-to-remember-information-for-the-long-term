@@ -1,5 +1,3 @@
-How to Use Memory Techniques to Remember Information for the Long Term
-=================================================================================
 
 In this chapter, we will explore practical strategies and memory techniques that will enable you to remember information for the long term. By incorporating these techniques into your learning process, you can enhance your memory retention and recall abilities.
 

@@ -1,5 +1,3 @@
-Overview of Memory and How It Works
-==============================================
 
 In this chapter, we will explore the fascinating world of memory and gain a deeper understanding of how it works. Memory is an essential cognitive function that allows us to encode, store, and retrieve information. By understanding the different stages and processes involved in memory formation, we can enhance our ability to remember information for the long term.
 

@@ -1,5 +1,3 @@
-Overview of Common Memory Techniques
-===============================================
 
 In this chapter, we will provide an overview of common memory techniques that are widely used to improve memory retention and recall. These techniques include repetition, visualization, association, and chunking. By understanding and applying these techniques, you can enhance your ability to remember information for the long term.
 

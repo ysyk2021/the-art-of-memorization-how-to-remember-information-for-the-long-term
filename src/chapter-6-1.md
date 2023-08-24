@@ -1,5 +1,3 @@
-The Role of Active Recall in Memorization
-====================================================
 
 In this chapter, we will explore the crucial role that active recall plays in the process of memorization. Active recall is a powerful learning technique that involves actively retrieving information from memory rather than passively reviewing it. We will delve into the benefits of active recall, discuss effective strategies to implement it, and provide practical tips to enhance its effectiveness.
 

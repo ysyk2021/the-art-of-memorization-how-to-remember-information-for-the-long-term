@@ -1,5 +1,3 @@
-Chapter 5: Memory Palaces
-=========================
 
 Memory palaces are a powerful technique for memorization that involve associating information with specific locations or objects in a familiar space, such as a house or neighborhood. This chapter explores the importance of memory palaces in memorization, strategies for creating a memory palace, and how to use memory palaces to remember information for the long-term.
 

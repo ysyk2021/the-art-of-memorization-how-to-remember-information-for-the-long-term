@@ -1,5 +1,3 @@
-Chapter 3: Memory Techniques
-============================
 
 Memory techniques are tools that individuals can use to improve their memory and recall abilities. This chapter provides an overview of common memory techniques, including repetition, visualization, association, and chunking. It also explores how to use memory techniques to remember information for the long-term and provides examples of successful individuals who have used memory techniques.
 

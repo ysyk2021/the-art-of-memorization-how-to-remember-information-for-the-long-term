@@ -1,5 +1,3 @@
-Chapter 2: Understanding Memory
-===============================
 
 Memory is a complex process that involves encoding, storage, and retrieval of information. This chapter provides an overview of memory and how it works, including short-term and long-term memory, and explores strategies for enhancing memory effectiveness.
 
