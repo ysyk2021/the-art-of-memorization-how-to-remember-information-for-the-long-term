@@ -1,3 +1,6 @@
+# The Art of Memorization: How to Remember Information for the Long-Term
+
+Book Link: [https://zhengpublishing.com/the-art-of-memorization-how-to-remember-information-for-the-long-term/](https://zhengpublishing.com/the-art-of-memorization-how-to-remember-information-for-the-long-term/)
 
 In today's information age, the ability to remember and retain large amounts of information is more important than ever. Whether you are a student, professional, or lifelong learner, knowing how to memorize effectively can help you achieve your goals and excel in your field.
 
